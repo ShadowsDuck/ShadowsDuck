@@ -4,8 +4,8 @@ Hi 👋 My name is Tanaphat Partoom
 I'm a student of Naresuan University (2nd year)
 -----------------------------------------------
 
-* 🌍  I'm based in Phitsanulok, Thailand
-* 🧠  I've been learning Python for 2 months.
+* 🌍  I'm based in Phitsanulok, Thailand.
+* 🧠  I've been learning Python.
 * ✉️  You can contact me at [ommykung2033@gmail.com](mailto:ommykung2033@gmail.com)
 
 ### Skills
