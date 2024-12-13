@@ -54,11 +54,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    ![](https://github-readme-stats.vercel.app/api?username=ShadowsDuck&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=ShadowsDuck&theme=dark&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowsDuck&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowsDuck&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowsDuck&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-ShadowsDuck.vercel.app/api/top-langs/?username=ShadowsDuck&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowsDuck&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
