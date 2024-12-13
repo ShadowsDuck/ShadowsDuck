@@ -1,33 +1,73 @@
-Hi 👋 My name is Tanaphat Partoom
-=================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShadowsDuck.ShadowsDuck" />
 
-I'm a student of Naresuan University (2nd year)
------------------------------------------------
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanaphat+Partoom!;" />
+</h1>
 
-* 🌍  I'm based in Phitsanulok, Thailand.
-* 🧠  I've been learning Python.
-* ✉️  You can contact me at [ommykung2033@gmail.com](mailto:ommykung2033@gmail.com)
+<h3 align="center">A passionate software developer from Thailand 🇹🇭</h3>
 
-### Skills
+<br/>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</p>
+<div align="center">
+ 
+ 🔭 I’m currently studing on **a marketplace**
+ 
+ 🌱 I’m currently learning **Python, Html, CSS, JS**
 
-### Socials
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-<p align="left"> <a href="https://discord.com/users/shadowsduck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/tanaphat.kung.7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ShadowsDuck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ommykung2033@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.facebook.com/tanaphat.kung.7/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/ShadowsDuck" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-### Badges
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,vscode,github" />
+</div>
 
-<b>My GitHub Stats</b>
+<br/>
+<hr/>
 
-<a href="http://www.github.com/ShadowsDuck"><img src="https://github-readme-stats.vercel.app/api?username=ShadowsDuck&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShadowsDuck's GitHub stats" /></a>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ShadowsDuck/ShadowsDuck/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<a href="https://github.com/ShadowsDuck" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowsDuck&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-ShadowsDuck.vercel.app/?user=ShadowsDuck&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-ShadowsDuck.vercel.app/api?username=ShadowsDuck&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-ShadowsDuck.vercel.app/api/top-langs/?username=ShadowsDuck&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
