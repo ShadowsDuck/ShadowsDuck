@@ -44,8 +44,21 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/ShadowsDuck/ShadowsDuck/output/snake.svg" alt="Snake animation" />
-  
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/ShadowsDuck/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/ShadowsDuck/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/ShadowsDuck/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
   <br/><br/><br/>
 </div>
 
