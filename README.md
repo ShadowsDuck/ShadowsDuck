@@ -1,5 +1,4 @@
-<img align="right" src="https://visitorbadge.io/status?path=ShadowsDuck" />
-<a href="https://visitorbadge.io/status?path=ShadowsDuck"><img src="https://api.visitorbadge.io/api/visitors?path=ShadowsDuck&labelColor=%23697689&countColor=%232ccce4" /></a>
+<a href="https://visitorbadge.io/status?path=ShadowsDuck"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=ShadowsDuck&labelColor=%23697689&countColor=%232ccce4" /></a>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanaphat+Partoom!;" />
