@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently studing on **a marketplace**
+ 🔭 I’m currently studying at **Naresuan University (3rd Year)**
  
- 🌱 I’m currently learning **Python, Html, CSS, JS**
+ 🌱 I’m currently learning **Python, HTML, CSS, and JavaScript**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first video game ever created was "Tennis for Two" in 1958**
 
  </div>
  
