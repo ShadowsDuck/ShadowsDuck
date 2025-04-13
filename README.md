@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **Naresuan University (3rd Year)**
  
- 🌱 I’m currently learning **Python, HTML, CSS, and JavaScript**
+ 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Next.js**
 
 ⚡ Fun fact **The first video game ever created was "Tennis for Two" in 1958**
 
