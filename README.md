@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **Naresuan University (3rd Year)**
  
- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Next.js**
+ 🌱 I’m currently learning **TypeScript, Next.js**
 
 ⚡ Fun fact **The first video game ever created was "Tennis for Two" in 1958**
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github" />
 </div>
 
 <br/>
