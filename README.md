@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+# 💻 Tech Stack:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,nodejs,express" />
@@ -52,13 +52,13 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+# 📊 GitHub Stats:
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowsDuck&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowsDuck&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowsDuck&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShadowsDuck&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowsDuck&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowsDuck&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
