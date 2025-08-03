@@ -18,6 +18,8 @@
 
 💻 **Currently learning TypeScript & Next.js**
 
+🌐 **Portfolio:** [https://nextjs-portfolio-nine-kohl.vercel.app/](https://nextjs-portfolio-nine-kohl.vercel.app/)
+
 ⚡ **Fun fact:** The first video game ever created was "Tennis for Two" in 1958
 
 </div>
@@ -33,8 +35,11 @@
   <a href="https://www.facebook.com/tanaphat.kung.7/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://nextjs-portfolio-nine-kohl.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/ShadowsDuck" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
