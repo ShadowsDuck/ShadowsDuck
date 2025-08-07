@@ -64,6 +64,8 @@
   
   <h4>🔐 Authentication & Services</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=clerk" alt="Auth Services" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth" alt="Auth Services" />
+
   
   <h4>☁️ Cloud & Database</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=neon" alt="Cloud Services" />
