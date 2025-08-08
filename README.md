@@ -57,7 +57,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,drizzle" alt="Database Skills" />
   
   <h4>🎯 Styling & UI</h4>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,bootstrap,shadcn" alt="Styling Skills" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,shadcn" alt="Styling Skills" />
   
   <h4>📱 Mobile Development</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo" alt="Mobile Skills" />
