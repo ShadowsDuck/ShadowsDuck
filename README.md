@@ -54,7 +54,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express" alt="Backend Skills" />
   
   <h4>🗄️ Database & ORM</h4>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,drizzle" alt="Database Skills" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,neon,drizzle" alt="Database Skills" />
   
   <h4>🎯 Styling & UI</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,shadcn" alt="Styling Skills" />
@@ -65,10 +65,6 @@
   <h4>🔐 Authentication & Services</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=clerk" alt="Auth Services" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth" alt="Auth Services" />
-
-  
-  <h4>☁️ Cloud & Database</h4>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=neon" alt="Cloud Services" />
   
   <h4>🛠️ Tools</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,postman" alt="Tools" />
