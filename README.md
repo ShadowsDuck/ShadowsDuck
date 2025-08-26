@@ -48,7 +48,7 @@
 ## 💻 Tech Stack
 <div align="center">
   <h4>🎨 Frontend</h4>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs" alt="Frontend Skills" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs" alt="Frontend Skills" />
   
   <h4>⚙️ Backend</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express" alt="Backend Skills" />
