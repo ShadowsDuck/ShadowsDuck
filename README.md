@@ -16,7 +16,7 @@
   
 🎓 **Currently studying at Naresuan University (4th Year)**
 
-💻 **Currently learning .NET & Docker**
+💻 **Currently learning NestJS**
 
 🌐 **Portfolio:** [https://nextjs-portfolio-nine-kohl.vercel.app/](https://nextjs-portfolio-nine-kohl.vercel.app/)
 
